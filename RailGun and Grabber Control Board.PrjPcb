@@ -55,23 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NQAYNSVS
 
 [Document2]
-DocumentPath=Voltage Regulator.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PWGROWPP
-
-[Document3]
 DocumentPath=MicroController.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YQAKQFPC
 
-[Document4]
+[Document3]
 DocumentPath=CAN Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,24 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCOAJYUU
 
-[Document5]
-DocumentPath=UART Interface.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NMCZCRKJ
-
-[Document6]
+[Document4]
 DocumentPath=Gate Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +105,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWCSRCBE
 
-[Document7]
+[Document5]
+DocumentPath=Voltage Regulator.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PWGROWPP
+
+[Document6]
 DocumentPath=RailGun and Grabber PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
