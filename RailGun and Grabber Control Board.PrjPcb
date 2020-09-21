@@ -58,7 +58,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NQAYNSVS
 
 [Document2]
-DocumentPath=MicroController.SchDoc
+DocumentPath=Micro.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YQAKQFPC
 
 [Document3]
-DocumentPath=CAN Interface.SchDoc
+DocumentPath=Communication.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -92,7 +92,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OCOAJYUU
 
 [Document4]
-DocumentPath=Gate Driver.SchDoc
+DocumentPath=Control Gates.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -109,7 +109,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OWCSRCBE
 
 [Document5]
-DocumentPath=Voltage Regulator.SchDoc
+DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -265,7 +265,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
