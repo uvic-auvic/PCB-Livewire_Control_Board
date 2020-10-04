@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for RailGun and Grabber Control Board
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=9992C8A8-3B7E-4B78-A41C-52EED103D53D
 VaultGUID=27815e3e-9b6a-4e7f-8958-c98a0c9c9997
@@ -176,10 +176,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for RailGun and Grabber Control Board\Design Rule Check - RailGun and Grabber PCB.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -191,7 +187,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for RailGun and Grabber Control Board
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
